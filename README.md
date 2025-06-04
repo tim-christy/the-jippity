@@ -1,1 +1,1 @@
-# chatgpt-terminal
+# the-jippity
